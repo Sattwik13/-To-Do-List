@@ -4,6 +4,12 @@ A modern, responsive **To-Do List application** built using **React**, **Tailwin
 
 ---
 
+## Link
+
+https://github.com/Sattwik13/-To-Do-List
+
+---
+
 ## 🚀 Features
 
 - ✅ Add new tasks
@@ -33,7 +39,7 @@ cd todo-react-app
 ```bash
 
 npm install
-Start the development server
+
 ```
 3. **Start the development server**
 
